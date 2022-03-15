@@ -5,7 +5,22 @@
 //  Created by Sultan on 14/3/22.
 //
 
-import Foundation
+var human = Human()
 
-print("Hello, World!")
+print(human.moveSpeed())
+print(human.makeVoice())
 
+var car = Car()
+
+print(car.moveSpeed())
+print(car.makeVoice())
+
+var dog = Dog()
+
+print(dog.moveSpeed())
+print(dog.makeVoice())
+
+ var user1 = User()
+user1.name = "Sultan"
+user1.setId(id: "123456")
+print(user1.getId())

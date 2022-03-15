@@ -8,6 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		2FB09C5E27E0445200ADD1EF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C5D27E0445200ADD1EF /* main.swift */; };
+		2FB09C6527E0448200ADD1EF /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C6427E0448200ADD1EF /* Car.swift */; };
+		2FB09C6727E0448B00ADD1EF /* Human.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C6627E0448B00ADD1EF /* Human.swift */; };
+		2FB09C6927E0449200ADD1EF /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C6827E0449200ADD1EF /* Dog.swift */; };
+		2FB09C6B27E0449E00ADD1EF /* Moveable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C6A27E0449E00ADD1EF /* Moveable.swift */; };
+		2FB09C6D27E0463200ADD1EF /* Soundable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C6C27E0463200ADD1EF /* Soundable.swift */; };
+		2FB09C6F27E0490900ADD1EF /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C6E27E0490900ADD1EF /* User.swift */; };
+		2FB09C7127E04AD800ADD1EF /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C7027E04AD800ADD1EF /* Cat.swift */; };
+		2FB09C7327E04AE400ADD1EF /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB09C7227E04AE400ADD1EF /* Animal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +33,14 @@
 /* Begin PBXFileReference section */
 		2FB09C5A27E0445200ADD1EF /* lesson4 0.2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "lesson4 0.2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FB09C5D27E0445200ADD1EF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2FB09C6427E0448200ADD1EF /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		2FB09C6627E0448B00ADD1EF /* Human.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Human.swift; sourceTree = "<group>"; };
+		2FB09C6827E0449200ADD1EF /* Dog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
+		2FB09C6A27E0449E00ADD1EF /* Moveable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Moveable.swift; sourceTree = "<group>"; };
+		2FB09C6C27E0463200ADD1EF /* Soundable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Soundable.swift; sourceTree = "<group>"; };
+		2FB09C6E27E0490900ADD1EF /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		2FB09C7027E04AD800ADD1EF /* Cat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
+		2FB09C7227E04AE400ADD1EF /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,14 @@
 			isa = PBXGroup;
 			children = (
 				2FB09C5D27E0445200ADD1EF /* main.swift */,
+				2FB09C6427E0448200ADD1EF /* Car.swift */,
+				2FB09C6627E0448B00ADD1EF /* Human.swift */,
+				2FB09C6827E0449200ADD1EF /* Dog.swift */,
+				2FB09C6A27E0449E00ADD1EF /* Moveable.swift */,
+				2FB09C6C27E0463200ADD1EF /* Soundable.swift */,
+				2FB09C6E27E0490900ADD1EF /* User.swift */,
+				2FB09C7027E04AD800ADD1EF /* Cat.swift */,
+				2FB09C7227E04AE400ADD1EF /* Animal.swift */,
 			);
 			path = "lesson4 0.2";
 			sourceTree = "<group>";
@@ -120,7 +144,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FB09C6527E0448200ADD1EF /* Car.swift in Sources */,
+				2FB09C6727E0448B00ADD1EF /* Human.swift in Sources */,
+				2FB09C6B27E0449E00ADD1EF /* Moveable.swift in Sources */,
+				2FB09C6D27E0463200ADD1EF /* Soundable.swift in Sources */,
+				2FB09C7127E04AD800ADD1EF /* Cat.swift in Sources */,
+				2FB09C6927E0449200ADD1EF /* Dog.swift in Sources */,
 				2FB09C5E27E0445200ADD1EF /* main.swift in Sources */,
+				2FB09C6F27E0490900ADD1EF /* User.swift in Sources */,
+				2FB09C7327E04AE400ADD1EF /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
